@@ -1,0 +1,73 @@
+
+[
+    {
+        "id":1,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "300",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/JkRs919/1.jpg"  
+    },
+    {
+        "id":2,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "200",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/5Y9tsxt/2.jpg"  
+    },
+    {
+        "id":3,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "300",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/kydtDQL/3.jpg"  
+    },
+    {
+        "id":4,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "400",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/QpxDJJ2/4.jpg"  
+    },
+    {
+        "id":5,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "500",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/Vw5xJsT/5.jpg"  
+    },
+    {
+        "id":6,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "600",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/4NCSLgB/6.jpg"  
+    },
+    {
+        "id":7,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "700",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/tq5tPYT/7.jpg"  
+    },
+    {
+        "id":8,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "800",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/wd6F70r/8.jpg"  
+    },
+    {
+        "id":9,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "900",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/Zh6xK3S/9.jpg"  
+    },
+    {
+        "id":10,
+        "name": "ENGINE DIAGNOSTICS",
+        "price" : "1000",
+        "discription": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia temporibus quidem odio libero laudantium nobis modi magnam ipsa inventore ipsam.",
+        "img": "https://i.ibb.co/7Rpvqf9/10.jpg"  
+    }
+]
